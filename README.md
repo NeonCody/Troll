@@ -1,5 +1,5 @@
 <h1 align='center'>
-  I am Neil 👋
+  I am Neil a.k.a NeoNCody 👋
 </h1>
 <p align='center'>
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
