@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `Python`.
 - 🤔 I’m looking for help with Economy bot.
 - 💬 Ask me about Tech.
-- 📫 How to reach me: Discord - ``TFǤ ∫NEIL#4639``
+- 📫 How to reach me: Discord - ``Neil!!!#6494``
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love GFX and Games.
 
